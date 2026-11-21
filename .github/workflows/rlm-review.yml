@@ -4,6 +4,7 @@ name: RLM review
 
 on:
   pull_request:
+  workflow_dispatch:
 
 jobs:
   review:
